@@ -14,7 +14,7 @@ int main()
 
     soma = numero1 + numero2;
 
-    printf("O resultado da soma eh: %d", soma);
+    printf("O resultado da soma de %d e %d eh: %d", numero1, numero2, soma);
 
     return 0;
 }
